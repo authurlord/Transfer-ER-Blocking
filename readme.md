@@ -57,7 +57,7 @@ enrich_data/amazon_google_output_mistral.npy
 enrich_data/ant_buy_output_mistral.npy
 enrich_data/walmart_amazon_output_mistral.npy
 ```
-For AG/AB/WA seperately.
+For AG/AB/WA seperately. Please unzip `enrich_data/LLM_Output.zip` into `enrich_data` folder for the above 3 files.
 
 3. Parse the output of LLM, and merge them with originally `tableA/tableB` into `dict_ltable/dict_rtable`. Currently, the model_name contains 
 `['mistral-7B','llama3-8B','qwen2-1.5B']`.
