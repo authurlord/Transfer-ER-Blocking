@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+json_repair
+FlagEmbedding
+transformers
+vllm
+torch

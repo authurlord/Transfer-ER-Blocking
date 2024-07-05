@@ -1,0 +1,6 @@
+
+*.bin
+*.pt
+*.npy
+*.safetensors
+
